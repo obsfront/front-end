@@ -1,0 +1,20 @@
+{
+  "name": "front-end",
+  "homepage": "https://github.com/obsfront/front-end",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Carlos Nardo"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap": "v4.0.0-alpha.6"
+  }
+}
