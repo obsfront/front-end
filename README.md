@@ -1,8 +1,8 @@
 # OBS Front
 
-[![Slack](https://bootstrap-slack.herokuapp.com/badge.svg)](https://bootstrap-slack.herokuapp.com)
+[![Versão](https://bootstrap-slack.herokuapp.com/badge.svg)]
 
 Front-end padrão dos projetos da OBS Digital.
 
 ## Detalhes
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Esse diretório foi criado para agilizar e automatizar tarefas do nosso Front-end. Para isso, foram usados nesse projeto: Gulp, Bower, Pugjs, além das dependências do NodeJS.
