@@ -9,11 +9,26 @@ Esse diretório foi criado para agilizar e automatizar tarefas do nosso Front-en
 ### Step-by-step
 Todos os passos abaixo serão feitos utilizando o prompt do NodeJS.
 
-- Clone o repositório para sua máquina;
+- Acesse a pasta do projeto através do prompt
+```
+cd nome-da-pasta/projeto
+```
+- Clone o repositório para a pasta;
 ```
 git clone https://github.com/obsfront/front-end
+```
+- Acesse a pasta "front-end" pelo prompt
+```
+cd front-end
 ```
 - Instale as dependências do NodeJS
 ```
 npm install
 ```
+- Rode o gulp para que as imagens sejam exportadas para a pasta DIST
+```
+gulp
+```
+
+### Pronto!
+Edite os arquivos .pug e visualize as mudanças abrindo o arquivo .html correspondente na pasta DIST
