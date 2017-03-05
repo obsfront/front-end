@@ -1,0 +1,32 @@
+{
+  "name": "front-end",
+  "version": "1.0.0",
+  "description": "Front-end padrão dos projetos da OBS Digital.",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "bower": "^1.8.0",
+    "gulp": "^3.9.1",
+    "gulp-pug2": "^0.0.2",
+    "gulp-sass": "^3.1.0"
+  },
+  "devDependencies": {
+    "gulp-clean-css": "^3.0.3",
+    "gulp-image": "^2.7.5",
+    "gulp-imagemin": "^3.1.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^2.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/obsfront/front-end.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/obsfront/front-end/issues"
+  },
+  "homepage": "https://github.com/obsfront/front-end#readme"
+}
