@@ -25,6 +25,10 @@ cd front-end
 ```
 npm install
 ```
+- Instale as dependências do Bower
+```
+bower install
+```
 - Rode o gulp para que as imagens sejam exportadas para a pasta DIST
 ```
 gulp
