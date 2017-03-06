@@ -1,5 +1,20 @@
+// BOOTSTRAP
+@import '../../bower_components/bootstrap/scss/bootstrap.scss';
+
 // RESETS
 .btn{
   border-radius: 0;
 }
 // PADROES
+
+// PROPRIEDADES RESPONSIVAS
+@include media-breakpoint-up(xs) {
+}
+@include media-breakpoint-up(sm) {
+}
+@include media-breakpoint-up(md) {
+}
+@include media-breakpoint-up(lg) {
+}
+@include media-breakpoint-up(xl) {
+}
