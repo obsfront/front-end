@@ -1,7 +1,7 @@
 # OBS Front
 Front-end padrão dos projetos da OBS Digital.
 
-![Versão](http://obsdigital.com.br/git/svg/versao.svg)
+![Versão](http://obsdigital.com.br/git/svg/version.svg)
 
 ## Detalhes
 Esse diretório foi criado para agilizar e automatizar tarefas do nosso Front-end. Para isso, foram usados nesse projeto: Gulp, Bower, Pugjs, além das dependências do NodeJS.
